@@ -1,0 +1,2 @@
+# nextCore_manyrepo_Sekisan
+複数repository 積算repository
